@@ -1,0 +1,9 @@
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/CardiNest.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/list_install_components.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/install.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/install/local.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/install/strip.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/CardiNest_autogen_timestamp_deps.dir
+C:/Users/Admin/Desktop/CPE/CardiNest/build/Desktop-Release/CMakeFiles/CardiNest_autogen.dir
