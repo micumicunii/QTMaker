@@ -1,4 +1,4 @@
-Hello, I'm using QTMaker and I plan to make an inventory system.
+Hello, I'm using QTMaker (C++) and I plan to make an inventory system.
 Unfortunately, it's crashing.
 
 The features should be like this:
